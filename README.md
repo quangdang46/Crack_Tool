@@ -1,0 +1,1 @@
+# Crack tool với dnSpy
