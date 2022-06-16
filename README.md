@@ -1,1 +1,1 @@
-# Crack tool với dnSpy
+# Crack tool C# với dnSpy,phần mềm hỗ trợ de4dot
