@@ -1,0 +1,5 @@
+- dịch ngược mã nguồn bằng de4dot
+- Thêm file narlib.dll vào thư mục lib --> bypass qua copy key
+- frm Darauto dòng 811 thêm string text = this.method_2(); để bypass qua check mã máy
+- GClass 11 smethod_13 chỉnh thời hạn key
+- GClass 11 smethod_12 GClass11.dateTime_0 = dateTime_1; để bỏ qua thời gian trừ thời gian key
