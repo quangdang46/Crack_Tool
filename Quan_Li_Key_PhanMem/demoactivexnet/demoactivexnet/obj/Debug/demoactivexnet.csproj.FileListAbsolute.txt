@@ -1,0 +1,12 @@
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\bin\Debug\demoactivexnet.exe.config
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\bin\Debug\demoactivexnet.exe
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\bin\Debug\demoactivexnet.pdb
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\obj\Debug\demoactivexnet.csprojAssemblyReference.cache
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\obj\Debug\demoactivexnet.Form1.resources
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\obj\Debug\demoactivexnet.Properties.Resources.resources
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\obj\Debug\demoactivexnet.csproj.GenerateResource.cache
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\obj\Debug\demoactivexnet.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\obj\Debug\demoactivexnet.exe
+D:\LAPTRINH\C#\avtivexnet\demoactivexnet\demoactivexnet\obj\Debug\demoactivexnet.pdb
+C:\Users\Admin\Desktop\demoactivexnet\demoactivexnet\obj\Debug\demoactivexnet.exe
+C:\Users\Admin\Desktop\demoactivexnet\demoactivexnet\obj\Debug\demoactivexnet.pdb
