@@ -1,0 +1,3 @@
+- Copy mã máy bằng cách chạy tool để lấy mã máy Vd:42F44911ED
+-Ý tưởng của tool là load file csv chứa key và lưu vào dictionary -->Add cứng mã máy và thời hạn luôn
+- Tại GClass0 method_0 dòng 66 add cứng mã máy vd:dictionary.Add("42F44911ED", new DateTime(2100, 12, 12));
